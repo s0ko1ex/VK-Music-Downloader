@@ -1,4 +1,6 @@
 # VK-Music-Downloader
+![Screenshot](screenshots/3.jpg)
+
 Simple TUI app made with awesome library [npyscreen](http://npyscreen.readthedocs.io/introduction.html) in Python for everyday use.
 ## Overview
 ### Login
